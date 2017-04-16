@@ -1,0 +1,33 @@
+Remote Desktop Connection Manager
+Postman
+Chrome
+Cicsco Systems VPN Client
+Cicsco AnyConnect
+Office 365
+Microsoft Teams
+Notepad++
+Fiddler
+Postman
+Powershell
+VSCode
+SSMS
+Azure Storage Explorer
+Java
+Nodejs
+Winrar
+FileZilla
+
+
+
+
+
+----Personal---
+Spotify
+Franz
+Norton Identity Safe
+SmartGit
+Android Studio
+Unity
+Arduino
+SSMSBoost
+
